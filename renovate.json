@@ -1,5 +1,9 @@
 {
-  "extends": ["config:base"],
+  "extends": [
+    "config:recommended"
+  ],
   "dependencyDashboard": true,
-  "schedule": ["at any time"]
+  "schedule": [
+    "at any time"
+  ]
 }
